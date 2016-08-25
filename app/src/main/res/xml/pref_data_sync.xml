@@ -1,0 +1,6 @@
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+    <PreferenceScreen
+        android:title="Test"
+        android:key="testKey">
+    </PreferenceScreen>
+</PreferenceScreen>
